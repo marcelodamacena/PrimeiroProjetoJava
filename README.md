@@ -1,2 +1,2 @@
 # PrimeiroProjetoJava
-![Screenshot](Tela Login.png)
+![Screenshot](Tela_Login.png)
